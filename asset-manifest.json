@@ -1,0 +1,20 @@
+{
+  "main.css": "/portfolio/static/css/main.d5bc73b0.chunk.css",
+  "main.js": "/portfolio/static/js/main.bb5b21db.chunk.js",
+  "main.js.map": "/portfolio/static/js/main.bb5b21db.chunk.js.map",
+  "runtime~main.js": "/portfolio/static/js/runtime~main.0fad4c0f.js",
+  "runtime~main.js.map": "/portfolio/static/js/runtime~main.0fad4c0f.js.map",
+  "static/js/2.4cf5d245.chunk.js": "/portfolio/static/js/2.4cf5d245.chunk.js",
+  "static/js/2.4cf5d245.chunk.js.map": "/portfolio/static/js/2.4cf5d245.chunk.js.map",
+  "index.html": "/portfolio/index.html",
+  "precache-manifest.3be642b826926947339aef1edb44af36.js": "/portfolio/precache-manifest.3be642b826926947339aef1edb44af36.js",
+  "service-worker.js": "/portfolio/service-worker.js",
+  "static/css/main.d5bc73b0.chunk.css.map": "/portfolio/static/css/main.d5bc73b0.chunk.css.map",
+  "static/media/Pensheel.png": "/portfolio/static/media/Pensheel.9468d1fe.png",
+  "static/media/Restofants.png": "/portfolio/static/media/Restofants.fdd68d2a.png",
+  "static/media/conversation.svg": "/portfolio/static/media/conversation.9b269fe2.svg",
+  "static/media/ifloopz.png": "/portfolio/static/media/ifloopz.51345c9d.png",
+  "static/media/jobaaks.png": "/portfolio/static/media/jobaaks.bfeea82d.png",
+  "static/media/programming.svg": "/portfolio/static/media/programming.c1a95f73.svg",
+  "static/media/stockcharts.png": "/portfolio/static/media/stockcharts.c2f580f3.png"
+}
