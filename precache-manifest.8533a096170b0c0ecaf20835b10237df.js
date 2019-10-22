@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/muchstory.8213ba76.png"
   },
   {
-    "revision": "a48657fe84f3b416ea03",
+    "revision": "60e9224ef6661631abf6",
     "url": "/portfolio/static/css/main.d5bc73b0.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/Pensheel.9468d1fe.png"
   },
   {
-    "revision": "a48657fe84f3b416ea03",
-    "url": "/portfolio/static/js/main.a48657fe.chunk.js"
+    "revision": "60e9224ef6661631abf6",
+    "url": "/portfolio/static/js/main.60e9224e.chunk.js"
   },
   {
     "revision": "fdd68d2a3fac5450845966a25b410449",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/conversation.9b269fe2.svg"
   },
   {
-    "revision": "cba2cfd708976312cb57a79a92c242d9",
+    "revision": "1da624a50d760511e50cf37ec0145843",
     "url": "/portfolio/index.html"
   }
 ];
